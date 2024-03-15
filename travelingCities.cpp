@@ -71,3 +71,15 @@ int main() {
    
    return 0;
 }
+
+// OUTPUT ***********************************************//
+//
+//    Boston   Chicago   Los Angeles   = 2971
+//    Boston   Los Angeles   Chicago   = 4971
+//    Chicago   Boston   Los Angeles   = 3920
+//    Chicago   Los Angeles   Boston   = 4971
+//    Los Angeles   Boston   Chicago   = 3920
+//    Los Angeles   Chicago   Boston   = 2971
+//
+//*******************************************************//
+
