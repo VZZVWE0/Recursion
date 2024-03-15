@@ -72,3 +72,32 @@ int main() {
    
    return 0;
 }
+
+// OUTPUT **************************************//
+//
+//   Milk  Belt  Toys  = $45
+//   Milk  Belt  Cups  = $38
+//   Milk  Toys  Belt  = $45
+//   Milk  Toys  Cups  = $33
+//   Milk  Cups  Belt  = $38
+//   Milk  Cups  Toys  = $33
+//   Belt  Milk  Toys  = $45
+//   Belt  Milk  Cups  = $38
+//   Belt  Toys  Milk  = $45
+//   Belt  Toys  Cups  = $55
+//   Belt  Cups  Milk  = $38
+//   Belt  Cups  Toys  = $55
+//   Toys  Milk  Belt  = $45
+//   Toys  Milk  Cups  = $33
+//   Toys  Belt  Milk  = $45
+//   Toys  Belt  Cups  = $55
+//   Toys  Cups  Milk  = $33
+//   Toys  Cups  Belt  = $55
+//   Cups  Milk  Belt  = $38
+//   Cups  Milk  Toys  = $33
+//   Cups  Belt  Milk  = $38
+//   Cups  Belt  Toys  = $55
+//   Cups  Toys  Milk  = $33
+//   Cups  Toys  Belt  = $55
+//
+//*********************************************//
